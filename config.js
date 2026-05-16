@@ -38,8 +38,8 @@ const CONFIG = {
         // Lien direct vers un mp3 ou fichier local "assets/music.mp3"
         src: "assets/music.mp3",
         // Titre affiché
-        title: "Ma musique",
-        artist: "Artist",
+        title: "Never Gonna Give You Up",
+        artist: "Rick Astley",
         autoplay: true,
     },
 
@@ -54,24 +54,6 @@ const CONFIG = {
             label: "Github",
             url: "https://github.com/4u-lab",
             color: "#FFFFFF",
-        },
-        {
-            icon: "discord",
-            label: "Discord",
-            url: "https://discord.gg/F6zjZM9Fjd",
-            color: "#5865f2",
-        },
-        {
-            icon: "x-twitter",
-            label: "X",
-            url: "https://x.com/l4qs_4u",
-            color: "#000000",
-        },
-        {
-            icon: "instagram",
-            label: "Instagram",
-            url: "https://instagram.com/4u_l4qs",
-            color: "#e1306c",
         },
         // Ajoute autant de liens que tu veux ici...
     ],
