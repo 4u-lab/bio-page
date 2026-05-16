@@ -1,0 +1,3 @@
+@echo off
+echo 🌐 Lancement de Bio Page...
+start "" "index.html"
